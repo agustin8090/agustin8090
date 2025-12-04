@@ -36,10 +36,10 @@ Clean Code practices
 Cloud basics (Azure)
 
 ## 🎓Education
-- Technical degree in Programming (2024-2026)
+- Technical Degree in Programming (2024-2026)
 -_Universidad Tecnologica Nacional_
 
-- Bachelor degree in Computer Science (In progress)
+- Bachelor's Degree in Computer Science (In progress)
 -_Universidad Nacional General Sarmiento_
 
 ## 📬Contact
