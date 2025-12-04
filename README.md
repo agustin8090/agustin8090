@@ -1,11 +1,11 @@
 ## Hi, I'm Agustin Gonzalez
 
-# I'm a Backend .NET Developer
+#👾Backend .NET Developer
 
 
 </> Tech Stack
 
-Languages: C#
+🏅Languages: C#
 
 Backend: .NET, ASP.NET Core, Web API
 
