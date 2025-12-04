@@ -5,17 +5,17 @@
 
 ## </>Tech Stack
 
-*Languages: C#
+- Languages: C#
 
-*Backend: .NET, ASP.NET Core, Web API
+- Backend: .NET, ASP.NET Core, Web API
 
-*Database: SQL Server, Entity Framework
+- Database: SQL Server, Entity Framework
 
-*Automation & Scripting: HttpClient, HtmlAgilityPack, Regex
+- Automation & Scripting: HttpClient, HtmlAgilityPack, Regex
 
-*Tools: Git, GitHub, Postman, Visual Studio
+- Tools: Git, GitHub, Postman, Visual Studio
 
-*Other: HTML, CSS
+- Other: HTML, CSS
 
 ## 🧩What I like to build
 
@@ -36,9 +36,9 @@ Clean Code practices
 Cloud basics (Azure)
 
 ## 🎓Education
-*Technical degree in Programming (2024-2026)
+- Technical degree in Programming (2024-2026)
 
-*Bachelor degree in Computer Science (In progress)
+- Bachelor degree in Computer Science (In progress)
 
 ## 📬Contact
 
