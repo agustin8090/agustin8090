@@ -1,6 +1,6 @@
 ## Hi, I'm Agustin Gonzalez
 
-# I'm a Backend .NET Developer with practical experience in WEB development, working with C#, APIs REST, SQL Server and Entity Framework. Currently studying a Bachelor degree in Computer Science
+# I'm a Backend .NET Developer
 
 
 </> Tech Stack
