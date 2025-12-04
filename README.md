@@ -5,7 +5,7 @@
 
 ## </>Tech Stack
 
-🏅Languages: C#
+Languages: C#
 
 Backend: .NET, ASP.NET Core, Web API
 
@@ -37,7 +37,7 @@ Cloud basics (Azure)
 
 ## 📬Contact
 
-If you want to reach out, feel free to connect!
+If you want to reach out, feel free to talk!
 📧 agustingonzalez4371@gmail.com
 
 ## 🔗LinkedIn
