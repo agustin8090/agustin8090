@@ -1,6 +1,6 @@
 ## Hi, I'm Agustin Gonzalez
 
-#👾Backend .NET Developer
+# 👾Backend .NET Developer
 
 
 </> Tech Stack
