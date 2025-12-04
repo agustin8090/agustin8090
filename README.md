@@ -3,7 +3,7 @@
 # 👾Backend .NET Developer
 
 
-</> Tech Stack
+</> ##Tech Stack
 
 🏅Languages: C#
 
@@ -17,7 +17,7 @@ Tools: Git, GitHub, Postman, Visual Studio
 
 Other: HTML, CSS
 
-🧩 What I like to build
+🧩 ##What I like to build
 
 Clean and simple REST APIs
 
@@ -27,7 +27,7 @@ Automation scripts to extract, clean or transform data
 
 Experiments with web scraping
 
-📚 Currently learning
+📚 ##Currently learning
 
 Advanced .NET API architecture
 
@@ -35,10 +35,10 @@ Clean Code practices
 
 Cloud basics (Azure)
 
-📬 Contact
+📬 ##Contact
 
 If you want to reach out, feel free to connect!
 📧 agustingonzalez4371@gmail.com
 
-🔗 LinkedIn
+🔗 ##LinkedIn
  https://www.linkedin.com/in/agustin-gonzalez-data/)
