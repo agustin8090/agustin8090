@@ -19,21 +19,21 @@
 
 ## 🧩What I like to build
 
-Clean and simple REST APIs
+- Clean and simple REST APIs
 
-Backend systems that solve real problems
+- Backend systems that solve real problems
 
-Automation scripts to extract, clean or transform data
+- Automation scripts to extract, clean or transform data
 
-Experiments with web scraping
+- Experiments with web scraping
 
 ## 📚Currently learning
 
-Advanced .NET API architecture
+- Advanced .NET API architecture
 
-Clean Code practices
+- Clean Code practices
 
-Cloud basics (Azure)
+- Cloud basics (Azure)
 
 ## 🎓Education
 - Technical Degree in Programming (2024-2026)
@@ -48,4 +48,4 @@ If you want to reach out, feel free to talk!
 📧 agustingonzalez4371@gmail.com
 
 ## 🔗LinkedIn
- https://www.linkedin.com/in/agustin-gonzalez-data/)
+ https://www.linkedin.com/in/agustin-gonzalez-data/
