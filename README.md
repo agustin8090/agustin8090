@@ -11,8 +11,6 @@
 
 - Database: SQL Server, Entity Framework
 
-- Automation & Scripting: HttpClient, HtmlAgilityPack, Regex
-
 - Tools: Git, GitHub, Postman, Visual Studio
 
 - Other: HTML, CSS
@@ -24,8 +22,6 @@
 - Backend systems that solve real problems
 
 - Automation scripts to extract, clean or transform data
-
-- Experiments with web scraping
 
 ## 📚Currently learning
 
