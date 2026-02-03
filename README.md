@@ -21,8 +21,6 @@
 
 - Backend systems that solve real problems
 
-- Automation scripts to extract, clean or transform data
-
 ## 📚Currently learning
 
 - Advanced .NET API architecture
