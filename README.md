@@ -7,17 +7,17 @@
 
 - Languages: C#
 
-- Backend: .NET, ASP.NET Core, Web API
+- Backend: .NET, ASP.NET Core, API RESTful, JWT
 
 - Database: SQL Server, Entity Framework, Docker
 
-- Tools: Git, GitHub, Postman, Visual Studio
+- Tools: Git, GitHub, Swagger, Visual Studio
 
 - Other: HTML, CSS
 
 ## 🧩What I like to build
 
-- Clean and simple REST APIs
+- Clean and simple rESTful APIs
 
 - Backend systems that solve real problems
 
