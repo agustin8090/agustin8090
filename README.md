@@ -9,7 +9,7 @@
 
 - Backend: .NET, ASP.NET Core, Web API
 
-- Database: SQL Server, Entity Framework
+- Database: SQL Server, Entity Framework, Docker
 
 - Tools: Git, GitHub, Postman, Visual Studio
 
