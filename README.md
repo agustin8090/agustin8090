@@ -23,7 +23,7 @@
 - Technical Degree in Programming (2024-2026)
 -_Universidad Tecnologica Nacional_
 
-- Bachelor's Degree in Systems Engineering (In progress)
+- Bachelor's Degree in Computer Science (In progress)
 -_Universidad Nacional General Sarmiento_
 
 ## 📬Contact
